@@ -31,8 +31,8 @@ console.clear()
             align: 'left',
             gradient: ['red', 'magenta']
         })
-console.log(color('=> Source code version:', 'yellow'), color('MyTelzs v1.1', 'cyan'))
-console.log(color('=> Bug? Error? Suggestion? Visit here:', 'yellow'), color('6285745409270'))
+console.log(color('=> Source code version:', 'yellow'), color('Kurtz v1.1', 'cyan'))
+console.log(color('=> Bug? Error? Suggestion? Visit here:', 'yellow'), color('628983755600'))
 console.log(color(`faxx.json`), color(`BOT is now online!`, 'red'))
 console.log(color('[DEV]', 'cyan'), color('Welcome back, Owner! Hope you are doing well~', 'magenta'))
 console.log('Untuk menjadi seorang programmer yang canggih, kamu harus rela berkeringat Dan begadang untuk menyelesaikan setiap script yang menjadi tugasmu!\n\nAuthor By relz')
@@ -40,7 +40,7 @@ console.log('Untuk menjadi seorang programmer yang canggih, kamu harus rela berk
     const mans = mansConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['Lexxy MD','Safari','1.0.0'],
+        browser: ['Uunkn0wnN.exe','edge','1.0.0'],
         auth: state,
         version
     })
