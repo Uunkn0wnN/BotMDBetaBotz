@@ -456,7 +456,7 @@ exports.help = (prefix, l) => {
 ❏ $
 └────
 
-*Re7znocure-Md@^6.7.7*\n${monospace}Simple Bot WhatsApp With Baileys Multi Device${monospace}`
+*Kurtz 💠*\n${monospace}Simple Bot WhatsApp With Baileys Multi Device${monospace}`
 }
 exports.donate = (prefix, l) => {
 	return `*── 「 DONATE 」 ──*
@@ -468,5 +468,5 @@ Atau kalian juga bisa donasi melalui QRis diatas.
 Terima kasih!
 
 Contact person Owner:
-wa.me/6285745409270 (Owner)`
+wa.me/628983755600 (Owner)`
 }
